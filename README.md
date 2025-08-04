@@ -51,17 +51,6 @@
 
 ---
 
-##  Screenshots
-
-_<img width="1920" height="1080" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/c4edff9e-7de9-4bea-be62-f845d400eb14" />
-<img width="1920" height="1080" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/1eecc3bf-d02f-489a-9eea-4fab90a9ffd1" />
-<img width="1920" height="1080" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/a423eb10-ba6a-4da8-82bb-56816a7e13f9" />
-<img width="1920" height="1080" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/ffe9d890-21f3-4a5a-a6c6-1cf5fbd31b2c" />
-<img width="1920" height="1080" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/dd5c64fd-1d7a-4728-acd3-7e66469fa549" />
-
-
-
----
 
 ##  Tech Stack
 
@@ -71,6 +60,22 @@ _<img width="1920" height="1080" alt="Screenshot (388)" src="https://github.com/
 | Backend     | Node.js, Express.js    |
 | Database    | MySQL                  |
 | Deployment  | Localhost / Your host  |
+
+
+----
+
+##  Screenshots
+<img width="1920" height="1080" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/3d5ac98f-7c27-4eab-a209-bd79a426737a" />
+<img width="1920" height="1080" alt="Screenshot (413)" src="https://github.com/user-attachments/assets/2dd6fbd9-cee0-479d-8fc1-359abac34774" />
+<img width="1920" height="1080" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/a7cebd22-f564-4938-b174-593356c4dd71" />
+<img width="1920" height="1080" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/5897e869-8c8d-4381-a8b4-9433685dbecc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d644455b-c75c-4e63-ac4b-70e057233cc8" />
+<img width="1920" height="1080" alt="Screenshot (416)" src="https://github.com/user-attachments/assets/a569d161-9c88-4f4b-af29-8ab2df452483" />
+
+
+
+
+
 
 ---
 
